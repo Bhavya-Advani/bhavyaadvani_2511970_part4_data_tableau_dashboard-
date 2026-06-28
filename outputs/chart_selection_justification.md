@@ -1,6 +1,7 @@
 
 
 
+
 # 1. Sales Trend View
 
 | Design Aspect                | Explanation                                                                                                                                                           |
@@ -90,17 +91,3 @@
 | **Design Principle Applied** | Consistent sorting highlights the highest return areas for management attention.                           |
 | **Mistake Avoided**          | Avoided pie charts because ranking and comparison are easier to interpret with bars.                       |
 
----
-
-# Overall Dashboard Design Principles
-
-The dashboard was developed using the following design principles:
-
-* **Executive-focused:** Displays the most important business KPIs without unnecessary complexity.
-* **Consistency:** Similar chart styles, fonts, and colors are used throughout the dashboard.
-* **Clear comparisons:** Appropriate chart types were selected based on the type of business question.
-* **Minimal clutter:** Only essential information is displayed to maximize readability.
-* **Interactive analysis:** Filters allow users to explore performance by region, category, customer segment, and time period.
-* **Visual hierarchy:** The most important KPIs and trends are positioned prominently to guide the viewer through the business story.
-
-These design choices ensure that the dashboard supports quick, evidence-based decision-making while remaining easy to interpret for senior leadership.
